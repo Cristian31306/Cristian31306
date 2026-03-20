@@ -18,26 +18,16 @@ Soy un apasionado por construir soluciones escalables y automatizar procesos que
 
 ## 🏗️ Proyectos Destacados
 
-* **[Parkyra](https://github.com/tu-usuario/parkyra):** Sistema SaaS multi-tenant para la gestión inteligente de parqueaderos.
-* **[Canal360](https://github.com/tu-usuario/canal360):** Plataforma web optimizada para [mencionar brevemente el propósito].
-* **Music Tools:** Automatización para catalogar letras y transposición de acordes.
-
----
-
-## 🏍️ Fuera del Código...
-
-No todo es `git push`. Cuando no estoy frente al monitor, probablemente me encuentres:
-* En una ruta por **Norte de Santander** (actualmente sumando kilómetros a mi Pulsar NS 200 FI).
-* Explorando nuevas formas de optimizar flujos de trabajo con herramientas de **automatización**.
-* Gestionando mis propios proyectos de emprendimiento tecnológico.
+* **[Esquina Redonda](https://github.com/Cristian31306/EsquinaRedonda):** Sistema SaaS multi-tenant para la gestión inteligente de parqueaderos.
+* **[Canal360](https://github.com/Cristian31306/Canal360):** Plataforma web optimizada para la gestion de procesos en Agenvias de Seguro.
 
 ---
 
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Cristian" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian31306&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Cristian" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian31306&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180" />
 </p>
 
 ---
@@ -45,8 +35,7 @@ No todo es `git push`. Cuando no estoy frente al monitor, probablemente me encue
 ## 📫 Conectemos
 
 * **Ubicación:** Villa del Rosario, Norte de Santander, Colombia 🇨🇴
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-* **Portafolio:** [algorah.bond](https://algorah.bond)
+* **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:durancristian31306@gmail.com) [durancristian31306@gmail.com](mailto:durancristian31306@gmail.com)
 
 ---
 *"El código limpio no es un lujo, es una inversión en el futuro del software."*
