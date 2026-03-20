@@ -1,41 +1,92 @@
-# ¡Hola! Soy Cristian Durán
+# Software Developer & Entrepreneur
 
-### 🚀 Software Developer & Entrepreneur | Full-Stack Architect
+### Full-Stack Architect
 
-Apasionado por construir soluciones escalables y automatizar procesos que impulsen negocios. Mi enfoque principal es el desarrollo de arquitecturas **SaaS Multi-tenant** y sistemas de alto rendimiento.
-
----
-
-## 🛠️ Mi Stack Tecnológico
-
-| Backend | Frontend | Infraestructura & Herramientas |
-| :--- | :--- | :--- |
-| **PHP 8.4** (Laravel Specialist) | **Vue.js** (3.x / Composition API) | **Docker** & WSL2 (Ubuntu) |
-| **Python** (Automation & Scripts) | **Tailwind CSS** | **Linux** VPS & CI/CD Pipelines |
-| **MySQL / PostgreSQL** | **AppSheet** (Low-code solution) | **Git / GitHub Actions** |
-
----
-
-## 🏗️ Proyectos Destacados
-
-* **[Esquina Redonda](https://github.com/Cristian31306/EsquinaRedonda):** Sistema SaaS multi-tenant para la gestión inteligente de parqueaderos.
-* **[Canal360](https://github.com/Cristian31306/Canal360):** Plataforma web optimizada para la gestion de procesos en Agencias de Seguro.
-
----
-
-## 📊 Mis Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristian31306&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Cristian" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian31306&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="180" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Construyendo+soluciones+reales;Full-Stack+Developer;Automatización+y+SaaS;Siempre+en+línea" />
 </p>
 
 ---
 
-## 📫 Conectemos
+<p align="center">
 
-* **Ubicación:** Villa del Rosario, Norte de Santander, Colombia 🇨🇴
-* **Email:** durancristian31306@gmail.com
+![Perfil](https://img.shields.io/badge/Perfil-Activo-0a192f?style=for-the-badge\&logo=github)
+![Seguidores](https://img.shields.io/github/followers/Cristian31306?style=for-the-badge\&color=00f7ff)
+![Stars](https://img.shields.io/github/stars/Cristian31306?affiliations=OWNER\&style=for-the-badge\&color=00f7ff)
+![Repos](https://img.shields.io/badge/Repositorios-Automático-00f7ff?style=for-the-badge)
+
+</p>
 
 ---
-*"El código limpio no es un lujo, es una inversión en el futuro del software."*
+
+## Sobre mí
+
+Desarrollador enfocado en construir soluciones reales, escalables y automatizadas
+Especializado en desarrollo SaaS y arquitecturas eficientes
+Mentalidad de mejora continua y optimización
+
+---
+
+## Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian31306&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian31306&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## Actividad
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Cristian31306&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Stack Tecnológico
+
+<p align="center">
+
+**Backend**
+PHP (Laravel) · Python · APIs REST
+
+**Frontend**
+Vue.js · Tailwind CSS · UI/UX
+
+**Infraestructura**
+Docker · Linux · CI/CD · GitHub Actions
+
+**Bases de Datos**
+MySQL · PostgreSQL
+
+</p>
+
+---
+
+## Proyectos Destacados
+
+**Esquina Redonda**
+Sistema SaaS multi-tenant para gestión inteligente de parqueaderos
+
+**Canal360**
+Plataforma web para optimización de procesos en agencias de seguros
+
+---
+
+## Contacto
+
+Villa del Rosario, Norte de Santander, Colombia
+[durancristian31306@gmail.com](mailto:durancristian31306@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0a192f&height=120&section=footer"/>
+</p>
+
+---
+
+### Filosofía
+
+> El código limpio no es un lujo, es una inversión en el futuro del software.
