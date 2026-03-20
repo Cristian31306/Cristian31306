@@ -19,7 +19,7 @@ Apasionado por construir soluciones escalables y automatizar procesos que impuls
 ## 🏗️ Proyectos Destacados
 
 * **[Esquina Redonda](https://github.com/Cristian31306/EsquinaRedonda):** Sistema SaaS multi-tenant para la gestión inteligente de parqueaderos.
-* **[Canal360](https://github.com/Cristian31306/Canal360):** Plataforma web optimizada para la gestion de procesos en Agenvias de Seguro.
+* **[Canal360](https://github.com/Cristian31306/Canal360):** Plataforma web optimizada para la gestion de procesos en Agencias de Seguro.
 
 ---
 
