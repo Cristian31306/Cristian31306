@@ -10,10 +10,12 @@
 
 <p align="center">
 
-![Perfil](https://img.shields.io/badge/Perfil-Activo-0a192f?style=for-the-badge\&logo=github)
-![Seguidores](https://img.shields.io/github/followers/Cristian31306?style=for-the-badge\&color=00f7ff)
-![Stars](https://img.shields.io/github/stars/Cristian31306?affiliations=OWNER\&style=for-the-badge\&color=00f7ff)
-![Repos](https://img.shields.io/badge/Repositorios-Automático-00f7ff?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Perfil-Activo-0a192f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Cristian31306?style=for-the-badge&color=00f7ff" />
+  <img src="https://img.shields.io/github/stars/Cristian31306?affiliations=OWNER&style=for-the-badge&color=00f7ff" />
+  <img src="https://img.shields.io/badge/Repositorios-Automático-00f7ff?style=for-the-badge" />
+</p>
 
 </p>
 
@@ -49,10 +51,10 @@ Mentalidad de mejora continua y optimización
 <p align="center">
 
 **Backend**
-PHP (Laravel) · Python · APIs REST
+PHP (Laravel) · Python · Java
 
 **Frontend**
-Vue.js · Tailwind CSS · UI/UX
+Vue.js · Tailwind CSS · UI/UX · Bootstrap
 
 **Infraestructura**
 Docker · Linux · CI/CD · GitHub Actions
