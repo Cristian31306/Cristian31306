@@ -35,7 +35,7 @@ Soy un apasionado por construir soluciones escalables y automatizar procesos que
 ## 📫 Conectemos
 
 * **Ubicación:** Villa del Rosario, Norte de Santander, Colombia 🇨🇴
-* **Email:** [durancristian31306@gmail.com](mailto:durancristian31306@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:durancristian31306@gmail.com)
+* **Email:** durancristian31306@gmail.com
 
 ---
 *"El código limpio no es un lujo, es una inversión en el futuro del software."*
