@@ -50,17 +50,17 @@ Mentalidad de mejora continua y optimización
 
 <p align="center">
 
-**Backend**
-> PHP (Laravel) · Python · Java
+▸ **Backend**  
+PHP (Laravel) · Python · Java  
 
-**Frontend**
-> Vue.js · Tailwind CSS · UI/UX · Bootstrap
+▸ **Frontend**  
+Vue.js · Tailwind CSS · UI/UX · Bootstrap  
 
-**Infraestructura**
-> Docker · Linux · CI/CD · GitHub Actions
+▸ **Infraestructura**  
+Docker · Linux · CI/CD · GitHub Actions  
 
-**Bases de Datos**
-> MySQL · PostgreSQL
+▸ **Bases de Datos**  
+MySQL · PostgreSQL  
 
 </p>
 
@@ -68,11 +68,13 @@ Mentalidad de mejora continua y optimización
 
 ## Proyectos Destacados
 
-**[Esquina Redonda](https://github.com/Cristian31306/EsquinaRedonda)**  
-> Sistema SaaS multi-tenant para gestión inteligente de parqueaderos  
+**Esquina Redonda**  
+Sistema SaaS multi-tenant para gestión inteligente de parqueaderos  
+↳ github.com/Cristian31306/EsquinaRedonda  
 
-**[Canal360](https://github.com/Cristian31306/Canal360)**  
-> Plataforma web para optimización de procesos en agencias de seguros  
+**Canal360**  
+Plataforma web para optimización de procesos en agencias de seguros  
+↳ github.com/Cristian31306/Canal360   
 
 ---
 
