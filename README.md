@@ -68,11 +68,11 @@ Mentalidad de mejora continua y optimización
 
 ## Proyectos Destacados
 
-**Esquina Redonda**
-> Sistema SaaS multi-tenant para gestión inteligente de parqueaderos
+**[Esquina Redonda](https://github.com/Cristian31306/EsquinaRedonda)**  
+> Sistema SaaS multi-tenant para gestión inteligente de parqueaderos  
 
-**Canal360**
-> Plataforma web para optimización de procesos en agencias de seguros
+**[Canal360](https://github.com/Cristian31306/Canal360)**  
+> Plataforma web para optimización de procesos en agencias de seguros  
 
 ---
 
