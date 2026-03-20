@@ -1,4 +1,4 @@
-# ¡Hola! Soy Cristian Durán 👋
+# ¡Hola! Soy Cristian Durán
 
 ### 🚀 Software Developer & Entrepreneur | Full-Stack Architect
 
