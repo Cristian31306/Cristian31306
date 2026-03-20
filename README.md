@@ -2,7 +2,7 @@
 
 ### 🚀 Software Developer & Entrepreneur | Full-Stack Architect
 
-Soy un apasionado por construir soluciones escalables y automatizar procesos que impulsen negocios. Mi enfoque principal es el desarrollo de arquitecturas **SaaS Multi-tenant** y sistemas de alto rendimiento.
+Apasionado por construir soluciones escalables y automatizar procesos que impulsen negocios. Mi enfoque principal es el desarrollo de arquitecturas **SaaS Multi-tenant** y sistemas de alto rendimiento.
 
 ---
 
