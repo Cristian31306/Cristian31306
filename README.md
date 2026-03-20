@@ -51,16 +51,16 @@ Mentalidad de mejora continua y optimización
 <p align="center">
 
 **Backend**
-PHP (Laravel) · Python · Java
+> PHP (Laravel) · Python · Java
 
 **Frontend**
-Vue.js · Tailwind CSS · UI/UX · Bootstrap
+> Vue.js · Tailwind CSS · UI/UX · Bootstrap
 
 **Infraestructura**
-Docker · Linux · CI/CD · GitHub Actions
+> Docker · Linux · CI/CD · GitHub Actions
 
 **Bases de Datos**
-MySQL · PostgreSQL
+> MySQL · PostgreSQL
 
 </p>
 
@@ -69,10 +69,10 @@ MySQL · PostgreSQL
 ## Proyectos Destacados
 
 **Esquina Redonda**
-Sistema SaaS multi-tenant para gestión inteligente de parqueaderos
+> Sistema SaaS multi-tenant para gestión inteligente de parqueaderos
 
 **Canal360**
-Plataforma web para optimización de procesos en agencias de seguros
+> Plataforma web para optimización de procesos en agencias de seguros
 
 ---
 
